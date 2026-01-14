@@ -132,7 +132,7 @@ class CategoryMatcher:
             # ======================
             # CHILDREN & FAMILY
             # ======================
-            "Children": [
+            "Children & Family": [
                 "huis van het kind",
                 "heilig hart",
                 "zwemclub",
@@ -144,7 +144,7 @@ class CategoryMatcher:
             # ======================
             # CLOTHING & SHOES
             # ======================
-            "Clothing": [
+            "Clothing & Shoes": [
                 "zara",
                 "vero moda",
                 "only",
@@ -170,7 +170,7 @@ class CategoryMatcher:
             # ======================
             # LEISURE, CULTURE & EVENTS
             # ======================
-            "Leisure": [
+            "Leisure & Culture & Events": [
                 "ticketmaster",
                 "sportpaleis",
                 "concert",
@@ -221,7 +221,7 @@ class CategoryMatcher:
             # ======================
             # TAXES & GOVERNMENT
             # ======================
-            "Taxes": [
+            "Taxes & Government": [
                 "fod financien",
                 "vlaamse belastingsdienst",
                 "provincie antwerpen",

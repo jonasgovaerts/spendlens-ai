@@ -22,16 +22,28 @@ class AIProcessor:
             
             Please respond with ONLY the category name. 
             Use one of these categories if they match:
+            
+            - Income
+            - Groceries
             - Food & Dining
-            - Transportation
-            - Shopping
-            - Entertainment
-            - Utilities
-            - Salary
-            - Investment
-            - Other
+            - Transport
+            - Housing
+            - Insurance
+            - Healthcare
+            - Children & Family
+            - Clothing & Shoes
+            - Personal Care
+            - Leisure & Culture & Events
+            - Household
+            - Subscriptions
+            - Banking
+            - Taxes & Government
+            - Transfers
+            - Gifts & Donations
+            - Miscellaneous
             
             If the description doesn't clearly fit any category, respond with "Other".
+            Do not create your own categories!
             """
             
             # Prepare API request
